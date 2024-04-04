@@ -87,4 +87,3 @@ toml==0.10.2
 toolz==0.12.1
 tornado==6.4
 typing_extensions==4.10.0
-tzdata==
